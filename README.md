@@ -9,3 +9,8 @@ eShel documentation from Shelyak downloadable on this github:
 
 -Demetra user's guide
 
+SeSaL Spectrograph and Leuschner Operational manuals - latest versions:
+
+--SeSaL Spectrograph Operatonal manual Spring 2023
+
+--Leuschner Telecope Operational manual Spring 2022
